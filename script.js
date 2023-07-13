@@ -39,14 +39,14 @@ $(document).ready(function () {
 
   // Início do script de animação de digitação
   var typed = new Typed(".typing", {
-    strings: ["Estudo ADS 💻", "sou de Recife/PE🌵", "sou Fã da Valve 🎮 ", "sou Entusiasta do Python 🐍"],
+    strings: ["Estudo ADS 💻", "sou de Recife/PE🌵", "adoro Jogos 🎮 ", "adoro programar 🧑‍💻"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
   });
 
   var typed = new Typed(".typing2", {
-    strings: ["Estudo ADS 💻", "sou de Recife/PE🌵", "sou Fã da Valve 🎮 ", "sou Entusiasta do Python 🐍"],
+    strings: ["Estudo ADS 💻", "sou de Recife/PE🌵", "adoro Jogos 🎮 ", "adoro programar 🧑‍💻"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
